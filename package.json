@@ -1,5 +1,5 @@
 {
-    "name": "com.odemgeek.UnityEditorInfo",
+    "name": "com.odemgeek.unityeditorinfo",
     "version": "1.0.0",
     "displayName": "UnityEditorInfo",
     "description": "Scripts for inspector in unity editor. Scripts not my, it's from Unity's demo \"Test track\" (Unity 2021 LTS).",
